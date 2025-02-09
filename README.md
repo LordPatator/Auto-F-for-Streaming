@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Auto-F for video streaming** is a chromium browser extension designed to automatically detect video playback on specific websites and simulate pressing the "F" key 2 seconds after the video starts playing.
+The **Auto-F for video streaming** is a chromium browser extension designed to automatically detect video playback on specific websites and simulate pressing the "F" key 2 seconds after the video starts playing to get the video into full-screen mode.
 
 This extension can be configured to work with a list of supported websites, and allows users to add or remove websites from the list directly within the extension.
 
