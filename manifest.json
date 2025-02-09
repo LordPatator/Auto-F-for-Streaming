@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Auto F-Press Extension",
+  "name": "Auto-F for video streaming",
   "version": "1.0",
   "permissions": ["storage", "tabs", "scripting"],
   "host_permissions": ["<all_urls>"],
